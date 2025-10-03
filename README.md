@@ -17,6 +17,6 @@
 6. Now the comment data is stored in NFC card, go to right side console at index.html and press 'To Facebook'. It will automatically set the date range, so user can find the comment easily.
 7. 'Ctrl + F' and 'Ctrl + V' to paste the comment data from the clipboard. In a previous stage, JS automatically copy the comment data.
 8. Decide delete the comment or not
-9. CBack to index.html. Turn into a read mode vit Arduino. Execute it with the right side button.
+9. Back to index.html. Turn into a read mode vit Arduino. Execute it with the right side button.
 10. Tag NFC card which you stored the data, you will see the stored data on teh bottom div.
 
